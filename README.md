@@ -10,7 +10,7 @@ al repositorio. Al realizar cambios, podemos consultar lo que ha cambiado con un
   <img  src="https://github.com/sharon1160/Project-locallibrary/blob/master/images/tutorial01/2.png">
   </p>
   
-Para realizar merges cambiamos a la rama master y ejecutamos el comando "git merge experimento_uno".Si queremos hacer revisión del historial simplemente escribimos "git log",y en el caso de que queremos regresar a una version anterior realizamos un "git reset HEAD~1".En la imagen de abajo se muestra el cambio a la version antigua.
+Para realizar merges cambiamos a la rama master y ejecutamos el comando "git merge experimento_uno".Si queremos hacer revisión del historial simplemente escribimos "git log",y en el caso de que queremos regresar a una version anterior realizamos un "git reset HEAD~1".En las imagenes de abajo se muestra el cambio de la version actual a la version antigua.
   
   <p align="center">
   <img  src="https://github.com/sharon1160/Project-locallibrary/blob/master/images/tutorial01/3.png">
