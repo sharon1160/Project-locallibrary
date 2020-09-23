@@ -50,7 +50,7 @@ Ingresamos a nuestro proyecto personal, escribimos el comando "git init" para in
   <img  src="https://github.com/sharon1160/Project-locallibrary/blob/master/images/tutorial02/type%2002/1.png">
   </p>
   
-Creamos nuestro repositorio en GitHub sin README.md, copiamos la direccion HTTPS y en la terminal escribimos  "git remote add origin [direccion HTTPS]" para crear el remote para nuestro repositorio. Después ejecutamos el comando "git remote",y si genera "origin",ha agregando el control remoto a su proyecto logrando así subir nuestro proyecto a GitHub sin ningún problema.
+Creamos nuestro repositorio en GitHub sin un README.md, copiamos la direccion HTTPS y en la terminal ejecutamos el comando "git remote add origin [direccion HTTPS]" para crear el "remote" para nuestro repositorio. Después ejecutamos el comando "git remote",y si genera "origin",ha agregando el control remoto a su proyecto logrando así subir nuestro proyecto a GitHub sin ningún problema.
   
   <p align="center">
   <img  src="https://github.com/sharon1160/Project-locallibrary/blob/master/images/tutorial02/type%2002/2.png">
