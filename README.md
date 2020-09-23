@@ -24,7 +24,7 @@
    
    #### - Type 01 : Create the repository, clone it to your PC, and work on it.(Recommended)
 
-Teniendo git instalado y ya creado nuestro repositorio previamente, obtenemos de la página de nuestro repositorio la dirección HTTPS, luego realizamos un "git clone" para tener nuestro repositorio en nuestra computadora, entramos al proyecto, en este caso, "Project-locallibrary" y escribimos "git status" para verificar los archivos que hemos modificado (tutorial.txt).
+Teniendo git instalado y nuestro repositorio ya creado previamente, obtenemos la dirección HTTPS de la página de nuestro repositorio, luego realizamos un "git clone" para tener nuestro repositorio en nuestra computadora, entramos al proyecto, en este caso, "Project-locallibrary" y escribimos "git status" para verificar los archivos que hemos modificado (tutorial.txt).
    
   <p align="center">
   <img  src="https://github.com/sharon1160/Project-locallibrary/blob/master/images/tutorial02/type%2001/1.png">
