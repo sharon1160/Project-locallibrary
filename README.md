@@ -22,7 +22,7 @@
 ### b)	Configurar y usar GitHub
    En base al siguiente tutorial: https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/
    
-   #### Type 01
+   #### - Type 01
    
   <p align="center">
   <img  src="https://github.com/sharon1160/Project-locallibrary/blob/master/images/tutorial02/type%2001/1.png">
@@ -32,7 +32,7 @@
   <img  src="https://github.com/sharon1160/Project-locallibrary/blob/master/images/tutorial02/type%2001/2.png">
   </p>
    
-   #### Type 02
+   #### - Type 02
    
   <p align="center">
   <img  src="https://github.com/sharon1160/Project-locallibrary/blob/master/images/tutorial02/type%2002/1.png">
