@@ -23,12 +23,25 @@
    En base al siguiente tutorial: https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/
    
    #### Type 01
+   
   <p align="center">
-  <img  src="https://github.com/sharon1160/Project-locallibrary/blob/master/images/tutorial01/4.png">
+  <img  src="https://github.com/sharon1160/Project-locallibrary/blob/master/images/tutorial02/type%2001/1.png">
+  </p>
+  
+  <p align="center">
+  <img  src="https://github.com/sharon1160/Project-locallibrary/blob/master/images/tutorial02/type%2001/2.png">
   </p>
    
    #### Type 02
    
   <p align="center">
-  <img  src="https://github.com/sharon1160/Project-locallibrary/blob/master/images/tutorial01/4.png">
+  <img  src="https://github.com/sharon1160/Project-locallibrary/blob/master/images/tutorial02/type%2002/1.png">
+  </p>
+  
+  <p align="center">
+  <img  src="https://github.com/sharon1160/Project-locallibrary/blob/master/images/tutorial02/type%2002/2.png">
+  </p>
+  
+  <p align="center">
+  <img  src="https://github.com/sharon1160/Project-locallibrary/blob/master/images/tutorial02/type%2002/3.png">
   </p>
