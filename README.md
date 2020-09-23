@@ -2,10 +2,15 @@
 
 ### a)	Configurar y usar Git localmente
    En base al siguiente tutorial: http://www.gabrielsaldana.org/platica_git.pdf
+   
+Para crear un repositorio ejecutamos el comando "git init" para inicializar el repositorio, luego escribimos "git add ." para agregar todos los archivos
+al repositorio. Al realizar cambios, podemos consultar lo que ha cambiado con un "git status",y para guardar todos estos cambios ejecutamos el siguiente comando "git commit -a -m [commit mensaje]".Si queremos crear ramas, realizamos un "git branch nombre_de_rama", en este caso "git branch experimento_uno", y para hacer un cambio de rama hacemos uso del comando "git checkout experimento_uno", donde hacemos cambio de  rama master a rama experimento_uno. 
 
   <p align="center">
   <img  src="https://github.com/sharon1160/Project-locallibrary/blob/master/images/tutorial01/2.png">
   </p>
+  
+Para realizar merges cambiamos a la rama master y ejecutamos el comando "git merge experimento_uno".Si queremos hacer revisión del historial simplemente escribimos "git log",y en el caso de que queremos regresar a una version anterior realizamos un "git reset HEAD~1".En la imagen de abajo se muestra el cambio a la version antigua.
   
   <p align="center">
   <img  src="https://github.com/sharon1160/Project-locallibrary/blob/master/images/tutorial01/3.png">
