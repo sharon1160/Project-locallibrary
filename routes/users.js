@@ -7,7 +7,7 @@ router.get('/', function(req, res, next) {
 });
 
 router.get('/cool', function(req, res) {
-  res.send("You're so bad"); // changing from "You're so cool" to "You're so bad"
+  res.send("You're so badd"); // changing from "You're so cool" to "You're so badd"
 });
 
 module.exports = router;
