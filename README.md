@@ -2,11 +2,7 @@
 
 ### a)	Configurar y usar Git localmente
    En base al siguiente tutorial: http://www.gabrielsaldana.org/platica_git.pdf
-  
-  <p align="center">
-  <img  src="https://github.com/sharon1160/Project-locallibrary/blob/master/images/tutorial01/1.png">
-  </p>
-  
+
   <p align="center">
   <img  src="https://github.com/sharon1160/Project-locallibrary/blob/master/images/tutorial01/2.png">
   </p>
